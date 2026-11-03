@@ -1,0 +1,3 @@
+name: hermes-session-counter
+version: "1.0.0"
+description: Automatically rotate Discord sessions after 15 user messages.
